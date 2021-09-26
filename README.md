@@ -1,6 +1,6 @@
 
-# Cash registry
-A web-app which will ease cash returning process to avoid loss. This app tell how much money should returned in a sequence of note ordered in descending order.
+# Do You Know ME
+A Test which one can to ensure that how much they know about me.
 
 ## Acknowledgements
 
